@@ -1,0 +1,582 @@
+Introduction to Mathematics
+math math math
+
+Mathematics is a fundamental and universal language that describes patterns, relationships, and structures in both the natural world and abstract realms. It is a discipline that has evolved over millennia, encompassing a wide range of topics from basic arithmetic and geometry to advanced fields like calculus, number theory, and abstract algebra. Mathematics serves as the foundation for many other sciences, including physics, engineering, computer science, economics, and more.
+
+Historical Development of Mathematics
+
+Ancient Mathematics
+
+The history of mathematics dates back to ancient civilizations, where the earliest forms of mathematics were developed for practical purposes such as commerce, measurement, and astronomy. The ancient Egyptians and Babylonians made significant contributions to arithmetic and geometry. The Egyptians used a base-10 number system and were able to perform basic arithmetic operations, while the Babylonians developed a base-60 number system and made advances in algebra and geometry.
+
+The ancient Greeks took mathematics to new heights by introducing rigorous deductive reasoning and proofs. Thales, Pythagoras, Euclid, and Archimedes are some of the prominent Greek mathematicians who made lasting contributions. Euclid's "Elements" is one of the most influential works in the history of mathematics, laying the foundation for Euclidean geometry.
+
+Classical and Medieval Mathematics
+
+During the classical and medieval periods, mathematics continued to develop, with significant contributions from Islamic mathematicians such as Al-Khwarizmi, who is often called the "father of algebra." His works introduced systematic solutions to linear and quadratic equations. The term "algorithm" is derived from his name, reflecting his influence on the development of computational methods.
+
+In the same period, Indian mathematicians like Aryabhata and Brahmagupta made groundbreaking contributions to number theory, algebra, and trigonometry. The concept of zero as a number and the decimal place-value system were significant innovations from this era.
+
+Renaissance and Early Modern Mathematics
+
+The Renaissance period marked a revival of interest in mathematics in Europe, driven by the rediscovery of ancient Greek and Roman texts. This period saw the development of new mathematical techniques and the formalization of algebra. Notable figures include Fibonacci, whose "Liber Abaci" introduced the Hindu-Arabic numeral system to Europe, and Niccolò Tartaglia, who made advances in solving cubic equations.
+
+The early modern period was characterized by the work of René Descartes, who developed analytic geometry, and Pierre de Fermat, who made significant contributions to number theory. This era also witnessed the birth of calculus, independently developed by Isaac Newton and Gottfried Wilhelm Leibniz. Calculus provided powerful tools for analyzing change and motion, revolutionizing mathematics and science.
+
+Branches of Mathematics
+
+Mathematics is a diverse field with many branches, each focusing on different aspects of numbers, structures, space, and change. Here are some of the main branches:
+
+Arithmetic
+
+Arithmetic is the study of numbers and the basic operations on them: addition, subtraction, multiplication, and division. It is the most fundamental branch of mathematics, serving as the foundation for more advanced topics. Arithmetic also includes the study of properties of numbers, such as divisibility, primes, and greatest common divisors.
+
+Algebra
+
+Algebra extends arithmetic by introducing symbols to represent numbers and operations. It involves solving equations and understanding the properties of algebraic structures such as groups, rings, and fields. Algebraic techniques are essential for solving problems in various fields, from engineering to economics.
+
+Geometry
+
+Geometry is the study of shapes, sizes, and properties of space. It includes the study of points, lines, planes, and solids, as well as more complex structures like curves and surfaces. Euclidean geometry, based on Euclid's postulates, is the most familiar form, but other types of geometry, such as non-Euclidean and differential geometry, have important applications in modern science.
+
+Trigonometry
+
+Trigonometry focuses on the relationships between the angles and sides of triangles. It introduces functions such as sine, cosine, and tangent, which are fundamental for analyzing periodic phenomena. Trigonometry has applications in fields ranging from physics and engineering to astronomy and music.
+
+Calculus
+
+Calculus is the study of change and motion. It is divided into differential calculus, which deals with rates of change and slopes of curves, and integral calculus, which deals with accumulation of quantities and areas under curves. Calculus is a powerful tool for solving problems in physics, engineering, economics, and many other fields.
+
+Statistics and Probability
+
+Statistics is the study of data: how to collect, analyze, interpret, and present it. Probability is the study of uncertainty and randomness. Together, they provide methods for making informed decisions based on data. Statistics and probability are essential for fields such as biology, economics, psychology, and computer science.
+
+Number Theory
+
+Number theory is the study of integers and their properties. It involves exploring prime numbers, divisibility, and the solutions of equations in integers. Number theory has a rich history and deep connections to other areas of mathematics, and it plays a crucial role in modern cryptography.
+
+Topology
+
+Topology is the study of properties of space that are preserved under continuous transformations. It is often described as "rubber-sheet geometry" because it involves stretching and bending shapes without tearing or gluing. Topology has applications in many areas, including physics, computer science, and biology.
+
+Mathematical Logic
+
+Mathematical logic is the study of formal systems of reasoning. It involves the study of propositional and predicate logic, proof theory, model theory, and set theory. Mathematical logic provides the foundation for understanding the nature of mathematical truth and the structure of mathematical theories.
+
+Key Concepts and Principles
+
+Mathematics is built on a foundation of key concepts and principles that are essential for understanding its various branches. Here are some of the most important ones:
+
+Sets and Set Theory of math
+
+A set is a collection of distinct objects, considered as an object in its own right. Set theory is the study of sets and their properties. It provides the foundation for much of modern mathematics, including the development of number systems and the formulation of mathematical concepts.
+
+Functions and Relations
+
+A function is a relation between a set of inputs and a set of possible outputs, where each input is related to exactly one output. Functions are fundamental in mathematics, as they describe the relationships between quantities and allow for the modeling of real-world phenomena.
+
+Numbers and Number Systems
+
+Mathematics involves the study of various types of numbers, including natural numbers, integers, rational numbers, real numbers, and complex numbers. Each number system has its own properties and operations, and understanding these systems is crucial for exploring mathematical concepts.
+
+Mathematical Proof
+
+A mathematical proof is a logical argument that establishes the truth of a mathematical statement. Proofs are the cornerstone of mathematical rigor, providing a means to verify the validity of mathematical propositions. There are various types of proofs, including direct proofs, indirect proofs, and proof by induction.
+
+Equations and Inequalities
+
+Equations are mathematical statements that assert the equality of two expressions, while inequalities assert that one expression is greater or less than another. Solving equations and inequalities is a central task in mathematics, with applications in many areas.
+
+Matrices and Determinants
+
+Matrices are rectangular arrays of numbers or other mathematical objects, and they are used to represent linear transformations and systems of linear equations. Determinants are scalar values associated with square matrices, providing important information about the matrix, such as whether it is invertible.
+
+Limits and Continuity
+
+Limits are used to describe the behavior of functions as they approach specific points or infinity. Continuity is a property of functions that describes their behavior at all points within their domain. Limits and continuity are fundamental concepts in calculus and analysis.
+
+Derivatives and Integrals
+
+Derivatives measure the rate of change of a function, while integrals measure the accumulation of quantities. These concepts are central to calculus, providing tools for analyzing and solving problems involving change and motion.
+
+Applications of Mathematics
+
+Mathematics is not only a theoretical discipline but also a practical one, with applications in various fields. Here are some key areas where mathematics plays a crucial role:
+
+Physics
+
+Mathematics is the language of physics, providing the tools and frameworks necessary to describe and understand the physical universe. Equations and mathematical models are used to represent physical laws, from the motion of particles to the behavior of electromagnetic fields and the structure of spacetime.
+
+Engineering
+
+Engineers use mathematics to design and analyze structures, systems, and processes. Calculus, differential equations, and linear algebra are essential for understanding the behavior of physical systems, while statistics and probability are used to assess reliability and risk.
+
+Computer Science
+
+Mathematics is fundamental to computer science, underpinning algorithms, data structures, cryptography, and computational complexity. Discrete mathematics, graph theory, and logic are particularly important in the design and analysis of computer systems and software.
+
+Economics
+
+Economists use mathematics to model and analyze economic systems, from individual markets to the global economy. Calculus, linear algebra, and statistics are used to study economic behavior, optimize resource allocation, and make forecasts.
+
+ 
+
+Mathematical models are used in    to understand complex systems, such as population dynamics, the spread of diseases, and the function of biological networks. Statistics and probability are essential for designing experiments and analyzing data.
+
+Finance
+
+Mathematics is used in finance to model financial markets, assess risk, and optimize investment strategies. Calculus, linear algebra, and probability theory are used to develop pricing models for financial derivatives and to manage portfolios.
+
+The Beauty and Power of Mathematics
+
+Mathematics is often described as beautiful and powerful, with an elegance that comes from its logical structure and its ability to describe and predict the world. Here are some aspects of the beauty and power of mathematics:
+
+Elegance and Simplicity
+
+Mathematics is characterized by its ability to express complex ideas in simple, concise forms. Elegant solutions and proofs often reveal deep connections between seemingly unrelated concepts, providing insight and understanding.
+
+
+List of Words Related to Math 
+Multiplicity 
+Curve 
+Variables 
+Constant 
+Right Angle 
+Denominator 
+Polygon 
+Vertex 
+Ellipse 
+Graph 
+Hypotenuse 
+Dividend 
+Cone
+Straight Line 
+Cube 
+Circumference 
+Algebra 
+X-Axis 
+Y-Axis 
+Parallelogram 
+Rectangle 
+Polynomials 
+Quadrants 
+Whole Number 
+Acute Angle 
+Arc
+Algorithm
+Odd Number 
+Intersections 
+Line Segments 
+Rays 
+Perimeter 
+Remainder 
+Dimension 
+Parentheses 
+Positive Integers 
+Horizontal Axis 
+Brackets 
+Subset 
+Number
+Equation
+Fraction
+Decimal
+Probability
+Statistics
+Trigonometry
+Function
+Parabola
+Quadrilateral
+Circle
+Tangent
+Conic section
+Derivative
+Set
+Mean
+Median
+Mode
+Range
+Volume
+Area
+Triangle
+Pythagoras
+Coordinate
+Perpendicular
+Isosceles
+Probability
+Combinatorics
+Geometric progression
+Logarithm
+Symmetry
+Fractional number
+Equation
+Probability
+Trigonometry
+Parabola
+Quadrilateral
+Tangent
+Conic section
+Derivative
+Set
+Mean
+Median
+Mode
+Perimeter
+Volume
+Addition
+Subtraction
+Multiplication
+Division
+Add
+Subtract
+Multiply
+Divide
+Solve
+Calculate
+Measure
+Estimate
+Plot
+Simplify
+Factor
+Expand
+Evaluate
+Derive
+Integrate
+Differentiate
+Prove
+Compare
+Analyze
+Deduce
+Construct
+Determine
+Count
+Identify
+Find
+Measure
+Compose
+Solve
+Convert
+Interpolate
+Extrapolate
+Round
+Correlate
+Approximate
+Multiply
+Divide
+Add
+Subtract
+Estimate
+Calculate
+Summarize
+Interpret
+Apply
+Create
+Arrange
+Conjecture
+Deduct
+Model
+Disprove
+Define
+Tabulate
+Verify
+Proportion
+Measure
+Design
+Compose
+Contrast
+Conclude
+Deduct
+Enumerate
+Quantify
+Approximate
+Formulate
+Investigate
+Substantiate
+Calculate
+Differentiate
+Interpolate
+Rectify
+Prime
+Parallel 
+Parallel Lines 
+Supplementary
+Congruent
+
+### Arithmetic
+
+You might have heard older generations refer to the "three Rs" of education, one of which stands for "arithmetic." This term denotes the most basic level of mathematics, where you learn fundamental operations such as addition, subtraction, multiplication, and division. Arithmetic forms the foundation upon which more complex mathematical concepts are built.
+
+### Geometry
+
+Students typically start studying geometry during their freshman or sophomore years of high school, though younger children are often introduced to basic geometric concepts, such as different shapes. Geometry is a branch of mathematics that focuses on the properties of space, including distance, shape, size, and relative position. Some students encounter geometry between their studies of Algebra I and Algebra II, while others take it after completing both levels of algebra.
+
+### Calculus
+
+No discussion about math-related words would be complete without mentioning calculus. If you excelled in math or followed a track focused on advanced sciences and mathematics, you might have taken calculus. This complex area of study involves methods and systems of calculation and reasoning. The two main types of calculus are "integral calculus" and "differential calculus," with a primary focus on "rates of change," such as speed acceleration or changes in velocity.
+
+### Ratio
+
+If you say that the ratio of students to chaperones on a school field trip is three to one (3:1), it means there is one chaperone for every three students. Ratios deal with comparing amounts, specifically indicating how often one quantity or number contains another. For example, if you have six dark socks and four white ones in a drawer, the ratio of dark socks to white socks is six to four.
+
+### Integer
+
+Another common mathematical term is "integer," which refers to a whole number, not a fraction. Integers can be zero, positive, or negative numbers. Each integer (except zero, which serves as a placeholder) has an additive inverse, essentially its opposite. For instance, the additive inverse of positive five is negative five.
+
+### Radius
+
+In the context of geometry, the term "radius" is fundamental. If you draw a circle and then draw a line from its center to any point on its perimeter, you have created a radius. A radius is a line segment within a circle that extends from its center to any point on the circumference, akin to a spoke on a wheel.
+
+### Integrals
+
+For those who enjoy calculus, the term "integrals" will be familiar. Integrals are a fundamental concept in calculus, describing a continuous analog of a sum. They are used to calculate areas and volumes through a process known as integration.
+
+### Diameter
+
+Much like the radius, the diameter is a key geometrical term. It refers to a line segment within a circle or sphere that stretches from one side to the other, passing through the center. The endpoints of the diameter lie on the circle's circumference.
+
+### Exponent
+
+In certain branches of math, numbers can be said to have "power." An exponent represents the power to which a number (the base) is raised. For example, in the notation \(3^2\), the base number is 3 and the exponent is 2, meaning 3 is multiplied by itself, resulting in 9.
+
+### Square Root
+
+The term "square root" refers to a number that, when multiplied by itself, equals another specific number. For instance, the square root of 16 is 4 because 4 multiplied by 4 equals 16. Similarly, the square root of 36 is 6, and the square root of 49 is 7.
+### Acute Angle
+An angle that is less than 90°.
+
+### Addition
+A mathematical operation where the sum of two numbers or quantities is calculated. It is usually represented by the symbol "+".
+
+### Algorithm or Algorism
+A step-by-step procedure or formula for solving a problem or completing a task, often involving recursive steps to generate an infinite sequence of terms.
+
+### Angle
+The measure of the divergence between two lines or planes, typically measured in degrees or radians.
+
+### Arc
+A segment of a curve, graph, or geometric figure.
+
+### Area
+The measure of the two-dimensional surface within a boundary, especially one enclosed by a closed curve.
+
+### Average
+The result of dividing the sum of a set of numbers or quantities by the number of members in the set.
+
+### Axis
+A reference line used in coordinate geometry to locate points in a plane or space, typically in two or three dimensions.
+
+### Base
+The number of distinct single-digit numbers in a counting system; also, the number represented as 10 in a place-value system.
+
+### Binary
+Relating to or expressed in binary notation or code, using only two symbols, typically 0 and 1.
+
+### Binomial
+A mathematical expression consisting of two terms, such as \(3x + 2y\).
+
+### Cardinal Number
+A number that denotes quantity but not order in a set.
+
+### Cartesian Coordinates
+A system for representing points in space using a set of mutually perpendicular axes. Points are defined in terms of their distances from a given origin, written as (x, y, z).
+
+### Chord
+A straight line connecting two points on a curve or curved surface.
+
+### Circle
+A closed plane curve where all points are equidistant from a fixed point, the center. The equation is \((x – h)^2 + (y – k)^2 = r^2\), where \(r\) is the radius and \((h, k)\) are the coordinates of the center.
+
+### Circumference
+The boundary of a circular area or geometric figure, particularly a circle.
+
+### Closed Set
+A set that includes all values obtained by applying a given operation to its members.
+
+### Coefficient
+A numerical or constant factor in an algebraic term.
+
+### Common Denominator
+An integer exactly divisible by each denominator in a group of fractions. For example, \(\frac{1}{4}\), \(\frac{1}{3}\), and \(\frac{1}{2}\) have a common denominator of 12.
+
+### Common Factor
+A number or quantity that is a factor of each member in a group of numbers or quantities.
+
+### Complex Number
+A number of the form \(a + ib\), where \(a\) and \(b\) are real numbers and \(i = \sqrt{-1}\).
+
+### Concentric
+Having a common center.
+
+### Cone
+A geometric solid with a plane base bounded by a closed curve (usually a circle or ellipse) and a point (the vertex) not in the plane of the base. The volume of a cone is \(\frac{1}{3} \pi r^2 h\), where \(r\) is the radius of the base and \(h\) is the height.
+
+### Constant
+A symbol representing an unspecified number that remains invariable throughout a particular series of operations.
+
+### Coordinate
+Any of a set of numbers defining the location of a point in space.
+
+### Cosecant
+A trigonometric function, the reciprocal of sine, defined as the ratio of the hypotenuse to the opposite side in a right-angled triangle.
+
+### Cosine
+A trigonometric function, defined as the ratio of the adjacent side to the hypotenuse in a right-angled triangle.
+
+### Cotangent
+A trigonometric function, the reciprocal of tangent, defined as the ratio of the adjacent side to the opposite side in a right-angled triangle.
+
+### Cube
+A solid with six plane square faces, where each angle between adjacent faces is a right angle.
+
+### Cube Root
+The number or quantity that, when cubed, yields a given number. For example, 2 is the cube root of 8 (usually written \(\sqrt[3]{8}\) or \(8^{1/3}\)).
+
+### Cuboid
+A geometric solid with six rectangular faces, also known as a rectangular parallelepiped.
+
+### Curve
+A system of points whose coordinates satisfy a given equation, forming a locus of points.
+
+### Cusp
+A point at which two arcs of a curve intersect, where the tangents at that point coincide.
+
+### Cylinder
+A solid with two parallel planes bounded by identical closed curves (usually circles), connected by parallel lines perpendicular to these planes. The volume of a cylinder is given by the base area times its height.
+
+### Decagon
+A polygon with ten sides.
+
+### Decimal
+A fraction with a denominator that is a power of ten, indicated by a decimal point.
+
+### Denary
+Based on ten; decimal.
+
+### Denominator
+The divisor of a fraction, such as 8 in \(\frac{3}{8}\).
+
+### Diagonal
+An oblique line connecting non-adjacent corners of a polygon or an oblique row of squares of the same color.
+
+### Diameter
+A straight line passing through the center of a circle or sphere, connecting two points on its perimeter.
+
+### Digit
+Any of the ten Arabic numerals from 0 to 9.
+
+### Division
+A mathematical operation, the inverse of multiplication, in which the quotient of two numbers or quantities is calculated, usually written \(a \div b\), \(\frac{a}{b}\), or \(a/b\).
+
+### Dodecahedron
+A solid figure with twelve plane faces, each face being a regular pentagon.
+
+### Ellipse
+A closed conic section shaped like a flattened circle, with the equation \(x^2/a^2 + y^2/b^2 = 1\), where \(2a\) and \(2b\) are the lengths of the major and minor axes, respectively.
+
+### Equals
+Symbolizes equality, typically written as "=".
+
+### Equation
+A mathematical statement asserting that two expressions are equal, which can be an identity (true for all values) or conditional (true for specific values).
+
+### Equilateral
+A geometric figure with all sides of equal length.
+
+### Even
+A number divisible by two.
+
+### Exponential
+A function or expression involving an exponent.
+
+### Factor
+One of two or more numbers or expressions that, when multiplied together, produce a given number or expression.
+
+### Factorial
+The product of all positive integers up to and including a given integer, denoted by \(n!\).
+
+### Formula
+A general rule or principle expressed in mathematical symbols.
+
+### Fraction
+A ratio of two expressions or numbers, other than zero.
+
+### Frequency
+The number of times an event occurs within a given period; the rate of recurrence.
+
+### Function
+A relation between sets where each element of the first set (domain) is associated with a unique element of the second set (range), denoted \(f(x)\).
+
+### Graph
+A visual representation of data showing the relationship between sets of numbers or quantities.
+
+### Helix
+A spiral curve that lies on a cylinder or cone, making a constant angle with the line segments forming the surface.
+
+### Hemisphere
+One half of a sphere.
+
+### Heptagon
+A polygon with seven sides.
+
+### Hexagon
+A polygon with six sides.
+
+### Hyperbola
+A conic section formed by a plane intersecting both nappes of a cone, having two branches with asymptotes. The standard equation is \(x^2/a^2 - y^2/b^2 = 1\).
+
+### Hypotenuse
+The side opposite the right angle in a right-angled triangle.
+
+### Icosahedron
+A solid figure with twenty faces, each being an equilateral triangle.
+
+### Imaginary Number
+A complex number of the form \(ib\), where \(i = \sqrt{-1}\).
+
+### Improper Fraction
+A fraction where the numerator's absolute value is greater than the denominator's, such as \(\frac{5}{3}\).
+
+### Index
+A number indicating the power to which a base number is raised, such as the index in \(\sqrt[3]{8}\).
+
+### Infinity
+The concept of a value larger than any finite numerical value.
+
+### Integer
+Any whole number, positive or negative, including zero.
+
+### Integral
+The limit of an increasingly large number of increasingly smaller quantities related to a function being integrated. Integrals can be definite (with limits) or indefinite (without limits).
+
+### Intersection
+A point or set of points common to two or more geometric configurations.
+
+### Irrational Number
+A real number that cannot be expressed as a ratio of two integers, such as \(\pi\).
+
+### Isosceles
+A triangle with two sides of equal length or a trapezium with two nonparallel sides of equal length.
+
+### Locus
+A set of points that satisfy a specific condition or equation.
+
+### Logarithm or Log
+The exponent indicating the power to which a fixed number (base) must be raised to produce a given number. For example, if \(a^x = M\), then the logarithm of \(M\) to the base \(a\) is \(x\).
+
+### Lowest Common Denominator
+The smallest integer exactly divisible by each denominator in a set of fractions.
+
+### Lowest Common Multiple
+The smallest number exactly divisible by each member of a set of numbers.
+
+### Mandelbrot Set
+A set of points in the complex plane, self-replicating according to a specific rule, used in fractal geometry and computer graphics.
+
+### Matrix
+An array of numbers or variables arranged in rows and columns, used to represent linear transformations.
+
+### Mean
+The sum of a set of values divided by the number of values, also known as the average.
+
+### Median
+The middle
+numbers, but also to functions or mappings (in this case, commuta tivity does not hold in general and it is always an interesting problem to determine when it does hold). Even when we study geometry afterwards, the rules of algebra are still used, say to compute areas, lengths, etc., which associate numbers with geometric objects. Thus does algebra mix with geometry. The main point of this chapter is to condition you to have efficient reflexes in handling addition, multiplication, and division of numbers. There are many rules for these operations, and the extent to which we choose to assume some, and prove others from the assumed ones, is determined by several factors. We wish to assume those rules which are most basic, and assume enough of them so that the proofs of the others are simple. It also turns out that those which we do assume occur in many contexts in mathe matics, so that whenever we meet a situation where they arise, then we already have the training to apply them and use them. Both historical experience and personal experience have gone into the selection of these rules and the order of the list in which they are given. To some extent, you must trust that it is valuable to have fast reflexes when dealing with associativity, commutativity, distributivity, cross-multiplication, and the like, if you do not have the intuition yourself which makes such trust unnecessary. Further more, the long list of the rules governing the above operations should be taken in the spirit of a description of how numbers behave. It may be that you are already reasonably familiar with the operations between numbers. In that case, omit the first chapter entirely, and go right 3 4 ALGEBRA ahead to Chapter 2, or start with the geometry or with the study of coordinates in Chapter 7. The whole first part on algebra is much more dry than the rest of the book, and it is good to motivate this algebra through geometry. On the other hand, your brain should also have quick reflexes when faced with a simple problem involving two linear equations or a quadratic equation. Hence it is a good idea to have isolated these topics in special sections in the book for easy reference. In organizing the properties of numbers, I have found it best to look successively at the integers, rational numbers, and real numbers, at the cost of slight repetitions. There are several reasons for this. First, it is a good way of learning certain rules and their consequences in a special context (e.g. associativity and commutativity in the context of integers), and then observ ing that they hold in more general contexts. This sort of thing happens very frequently in mathematics. Second, the rational numbers provide a wide class of numbers which are used in computations, and the manipulation of fractions thus deserves special emphasis. Third, to follow the sequence integers rational numbers-real numbers already plants in your mind a pattern which you will encounter again in mathematics. This pattern is related to the exten sion of one system of objects to a larger system, in which more equations can be solved than in the smaller system. For instance, the equation 2x = 3 can be solved in the rational numbers, but not in the integers. The equations x2 = 2 or 10x = 2 can be solved in the real numbers but not in the rational numbers. Similarly, the equations x2 = — 1, or x2 = —2, or 10x = —3 can be solved in the complex numbers but not in the real numbers. It will be useful to you to have met the idea of extending mathematical systems at this very basic stage because it exhibits features in common with those in more advanced contexts. 1 Numbers gl. THE INTEGERS The most common numbers are those used for counting, namely the numbers 1, 2, 3, 4, , which are called the positive integers. Even for counting, we need at least one other number, namely, 0 (zero). For instance, we may wish to count the number of right answers you may get on a test for this course, out of a possible 100. If you get 100, then all your answers were correct. If you get 0, then no answer was correct. The positive integers and zero can be represented geometrically on a line, in a manner similar to a ruler or a measuring stick: 0 1 2 3 4 ") Fig. 1-1 For this we first have to select a unit of distance, say the inch, and then on the line we mark off the inches to the right as in the picture. For convenience, it is useful to have a name for the positive integers together with zero, and we shall call these the natural numbers. Thus 0 is a natural number, so is 2, and so is 124,521. The natural numbers can be used to measure distances, as with the ruler. By definition, the point represented by 0 is called the origin. The natural numbers can also be used to measure other things. For example, a thermometer is like a ruler which measures temperature. However, 5 6 NUMBERS [1 , §1] the thermometer shows us that we encounter other types of numbers besides the natural numbers, because there may be temperatures which may go below 0. Thus we encounter naturally what we shall call negative integers which we call minus 1, minus 2, minus 3, . . . , and which we write as -1 , -2 , -3 , -4 , . . . . We represent the negative integers on a line as being on the other side of 0 from the positive integers, like this: -4 -3 -2-10 l 2 Fig. 1-2 The positive integers, negative integers, and zero all together are called the integers. Thus —9, 0, 10, —5 are all integers. If we view the line as a thermometer, on which a unit of temperature has been selected, say the degree Fahrenheit, then each integer represents a certain temperature. The negative integers represent temperatures below zero. Our discussion is already typical of many discussions which will occur in this course, concerning mathematical objects and their applicability to physical situations. In the present instance, we have the integers as mathe matical objects, which are essentially abstract quantities. We also have different applications for them, for instance measuring distance or tempera tures. These are of course not the only applications. Namely, we can use the integers to measure time. We take the origin 0 to represent the year of the birth of Christ. Then the positive integers represent years after the birth of Christ (called a d years), while the negative integers can be used to represent b c years. With this convention, we can say that the year —500 is the year 500 b c . Adding a positive number, say 7, to another number, means that we must move 7 units to the right of the other number. For instance, 5 + 7 = 12. Seven units to the right of 5 yields 12. On the thermometer, we would of course be moving upward instead of right. For instance, if the temperature at a given time is 5° and if it goes up by 7°, then the new temperature is 12°. Observe the very simple rule for addition with 0, namely Nl. for any integer a. [1 , §1] THE INTEGERS 7 What about adding negative numbers? Look at the thermometer again. Suppose the temperature at a given time is 10°, and the temperature drops by 15°. The new temperature is then —5°, and we can write 10 - 15 = -5 . Thus —5 is the result of subtracting 15 from 10, or of adding —15 to 10. In terms of points on a line, adding a negative number, say —3, to another number means that we must move 3 units to the left of this other number. For example, 5 + (-3 ) = 2 because starting with 5 and moving 3 units to the left yields 2. Similarly, 7 + (_3 ) = 4, and 3 + (-5 ) = -2 . Note that we have 3 + (-3 ) = 0 or 5 + (-5 ) = 0. We can also write these equations in the form (-3 ) + 3 = 0 or (-5 ) +5=0. For instance, if we start 3 units to the left of 0 and move 3 units to the right, we get 0. Thus, in general, we have the formulas (by assumption): N2. a + ( —a) = 0 and also —a + a = 0. In the representation of integers on the line, this means that a and —a lie on opposite sides of 0 on that line, as shown on the next picture: Fig. 1-3 Thus according to this representation we can now write 3 = - ( - 3 ) or 5 = - ( - 5 ) . In these special cases, the pictures are: 8 NUMBERS [1, §2] Remark. We use the name minus a for —a rather than the words “ negative a” which have found some currency recently. I find the words “ negative a” confusing, because they suggest that —a is a negative number. This is not true unless a itself is positive. For instance, 3 = - ( - 3 ) is a positive number, but 3 is equal to —a, where a = — 3, and a is a negative number. Because of the property a + (-a ) = 0, one also calls —a the additive inverse of a. The sum and product of integers are also integers, and the next sections are devoted to a description of the rules governing addition and multiplication. §2. RULES FOR ADDITION Integers follow very simple rules for addition. These are: Commutativity. If a, b are integers, then a + b — 6 + a. For instance, we have 3 + 5 = 5 + 3 = 8, or in an example with negative numbers, we have _2 + 5 = 3 = 5 + (-2 ). Associativity. If a, b, c are integers, then (a + b) + c = a + (b + c). [1, §2] RULES FOR ADDITION 9 In view of this, it is unnecessary to use parentheses in such a simple context, and we write simply For instance, We write simply cz + 6 + c. (3 + 5) + 9 = 8 + 9 = 17, 3 + (5 + 9) = 3 + 14 = 17. 3 + 5 + 9 = 17. Associativity also holds with negative numbers. For example, Also, ( —2 + 5) + 4 = 3 + 4 = 7, - 2 + (5 + 4) = - 2 + 9 = 7. (2 + (-5 )) + (-3 ) = - 3 + (-3 ) = -6 , 2 + ( - 5 + (-3 )) = 2 + (-8 ) = -6 . The rules of addition mentioned above will not be proved, but we shall prove other rules from them. To begin with, note that: N3. If a + b = 0, then b — —a and a = —b. To prove this, add —a to both sides of the equation a + b = 0. We get — cz + cz + 6 = — a + 0 = —c l. Since —a + a + 6 = 0 + 6 = 6, we find b = —a as desired. Similarly, we find a = — 6. We could also conclude that — b = —( —a) = a. As a matter of convention, we shall write a — b instead of a + ( — 6 ). 10 NUMBERS [1, §2] Thus a sum involving three terms may be written in many ways, as follows: (a - b) + c = (a + (-6 )) + c = a + ( —6 + c) = a + (c — b) = (a + c) — b and we can also write this sum as a — b + c = a + c — b, omitting the parentheses. Generally, in taking the sum of integers, we can take the sum in any order by applying associativity and commutativity repeatedly. As a special case of N3, for any integer a we have by associativity by commutativity by associativity, N4. a = —( —a). This is true because a + (-a ) = 0, and we can apply N3 with b = —a. Remark that this formula is true whether a is positive, negative, or 0. If a is positive, then —a is negative. If a is negative, then —a is positive. In the geometric representation of numbers on the line, a and —a occur symmetrically on the line on opposite sides of 0. Of course, we can pile up minus signs and get other relationships, like - 3 = - (- ( - 3 ) ) , or 3 = - ( - 3 ) = - ( - ( - ( - 3 ) ) ) . Thus when we pile up the minus signs in front of a, we obtain a or —a alternatively. For the general formula with the appropriate notation, cf. Exercises 5 and 6 of §4. From our rules of operation we can now prove: For any integers a, b we have — (a + b) = — a + ( —6) [1, §2] RULES FOR ADDITION 11 or, in other words, N5. — (a + b) = —a — b. Proof. Remember that if x, y are integers, then x = — y and y = — x mean that x + y = 0. Thus to prove our assertion, we must show that (a -|- b) + ( —a — 6) = 0 . But this comes out immediately, namely, (a + b) + ( —a — b) = a + b — a — b = a — a + b — b = 0 + 0 = 0. This proves our formula. Example. We have — (3 + 5) = - 3 - 5 = -8 , — ( — 4 + 5) = - ( - 4 ) - 5 = 4 - 5 = -1 , — (3 — 7) = —3 — (-7 ) = - 3 + 7=4. You should be very careful when you take the negative of a sum which involves itself in negative numbers, taking into account that — ( —a) = a. The following rule concerning positive integers is so natural that you probably would not even think it worth while to take special notice of it. We still state it explicitly. If a, b are positive integers, then a + b is also a positive integer. For instance, 17 and 45 are positive integers, and their sum, 62, is also a positive integer. We assume this rule concerning positivity. We shall see later that it also applies to positive real numbers. From it we can prove: If a, b are negative integers, then a + b is negative. by associativity by commutativity 1 2 NUMBERS [1, §2] Proof. We can write a — —n and b = — m, where m, n are positive. Therefore a + b = —n — m = — (ra + m), which shows that a + b is negative, because n + m is positive. Example. If we have the relationship between three numbers a + b = c, then we can derive other relationships between them. For instance, add —b to both sides of this equation. We get a + b — b = c — b, whence a + 0 = c — b, or in other words, a = c — b. Similarly, we conclude that b = c — a. For instance, if x + 3 = 5, then jc = 5 — 3=2. If 4 — a = 3, then adding a to both sides yields 4 = 3 + a, and subtracting 3 from both sides yields 1 = a. If - 2 - y = 5, then — l = y or y = — 7. [1 , §2] RULES FOR ADDITION 1 3 EXERCISES Justify each step, using commutativity and associativity in proving the following identities. 1. (a + b) + (c + d) = (a + d) + (b + c) 2. (a + b) + (c + d) = (a + c) + (b + d) 3. (a — b) + (c — d) = (a + c) + ( — b — d) 4. (a — 6) + (c — d) = (a + c) — (6 + eO 5. (a — 6) + (c — eO = (a — d) + (c — b) 6. (cl — b) -|- (c — d) = — (6 -|- d) -|- (cl -|- c) 7. (a — b) + (c — d) = —(b + d) — ( — a — c) 8. ((* + y) + z) + w = (x + z) + (y + w) 9. (x — y) - (z — w) = (z + w) — y — z 10. (x — y) — (z — w) = (x — z) + (w — y) 11. Show that — (a + b + c) = —a + ( — 6) + ( —c). 12. Show that — (a — b — c) = —a + b + c. 13. Show that — (a — b) = b — a. Solve for x in the following equations. 14. - 2 + x = 4 15. 2 — x = 5 16. z — 3 = 7 17. —x + 4 = —1 18. 4 - x = 8 19. —5 — x = —2 20. —7 + x = -1 0 21. - 3 + x = 4 14 NUMBERS [1 , §3] 22. Prove the cancellation law for addition: If a + 6 = a + c, then b = c. 23. Prove: If a + b = a, then 6=0. §3. RULES FOR MULTIPLICATION We can multiply integers, and the product of two integers is again an integer. We shall list the rules which apply to multiplication and to its relations with addition. We again have the rules of commutativity and associativity: ab = ba and (ab)c = a(6c). We emphasize that these apply whether a, 6, c are negative, positive, or zero. Multiplication is also denoted by a dot. For instance 3 • 7 = 21, and (3 • 7) • 4 = 21 • 4 = 84, 3 • (7 - 4) = 3 • 28 = 84. For any integer a, the rules of multiplication by 1 and 0 are: N6. la = a and 0 a = 0. Example. We have (2a) (36) = 2 (a (36)) = 2 (3a) 6 = (2 . 3)a6 = 6a6. [1 , §3] RULES FOR MULTIPLICATION 1 5 In this example we have done something which is frequently useful, namely we have moved to one side all the explicit numbers like 2, 3 and put on the other side those numbers denoted by a letter like a or b. Using commutativity and associativity, we can prove similarly (5x)(7y) = 35 xy or, with more factors, (2a)(36)(5x) = SOabx. We suggest that you carry out the proof of this equality completely, using associativity and commutativity for multiplication. Finally, we have the rule of distributivity, namely a{b + c) = ab + ac and also on the other side, (6 + c)a = ba + ca. These rules will not be proved, but will be used constantly. We shall, however, make some comments on them, and prove other rules from them. First observe that if we just assume distributivity on one side, and commutativity, then we can prove distributivity on the other side. Namely, assuming distributivity on the left, we have (6 + c)a = a(b + c) = ab + ac = ba + ca, which is the proof of distributivity on the right. Observe also that our rule Oa = 0 can be proved from the other rules concerning multiplication and the properties of addition. We carry out the proof as an example. We have • Oa -I- a = Oa -1- la = (0 l)a = la = a. Thus Oa + a = a. Adding —a to both sides, we obtain Oa + a — a = a — a = 0. 1 6 NUMBERS [1, §3] The left-hand side is simply 0a a — cl = Oil -|- 0 = Oa, so that we obtain Oa = 0, as desired. We can also prove N7. ( — l)a = —a. Proof. We have ( —l)a + a = ( — l)a + la = ( — 1 + l)a = Oa = 0. By definition, ( — l)a + a = 0 means that ( — l)a = —a, as was to be shown. We have N8. — (ab) = ( —a)b. Proof. We must show that ( — a)b is the negative of ab. This amounts to showing that ab + ( —a)b = 0. But we have by distributivity ab + ( —a)b = (a + ( — a))b = 06 = 0, thus proving what we wanted. Similarly, we leave to the reader the proof that N9. Example. We have — (a6) = a( —6). Also, Also, — (3a) = ( —3)a = 3 (-a ). 4 (a — 56) = 4a — 206. - 3 (5a - 76) = -15a + 216. [1, 53] RULES FOR MULTIPLICATION 17 In each of the above cases, you should indicate specifically each one of the rules we have used to derive the desired equality. Again, we emphasize that you should be especially careful when working with negative numbers and repeated minus signs. This is one of the most frequent sources of error when we work with multiplication and addition. Example. We have (-2 a ) (36) (4c) = (-2 ) - 3 • 4a6c = — 24a6c. Similarly, ( — 4*) (530 ( — 3c) = ( —4)5(—3)xyc = 60 xyc. Note that the product of two minus signs gives a plus sign. Example. We have ( — 1) ( — 1) = I* To see this, all we have to do is apply our rule — (a6) = ( —a)6 = a( — 6). We find ( - l ) ( - l ) = - ( l ( - D ) = - ( - l ) = l. Example. More generally, for any integers a, 6 we have N10. ( —a) ( —6) = a6. We leave the proof as an exercise. From this we see that a product of two negative numbers is positive, because if a, 6 are positive and —a, —6 are therefore negative, then ( — a) ( — 6) is the positive number a6. For instance, — 3 and —5 are negative, but ( —3 )(—5) = — (3(—5)) = — ( — (3 • 5)) = 15. Example. A product of a negative number and a positive number is negative. For instance, —4 is negative, 7 is positive, and ( — 4) • 7 = - (4 - 7 ) = -28, so that (—4) • 7 is negative. 1 8 NUMBERS [1, §3] When we multiply a number with itself several times, it is convenient to use a notation to abbreviate this operation. Thus we write aa = a2, aaa = a3, aaaa = a4, and in general if n is a positive integer, an = aa • • • a (the product is taken n times). We say that an is the n-th power of a. Thus a2 is the second power of a, and a5 is the fifth power of a. If m, n are positive integers, then Nil. am+n = aman. This simply states that if we take the product of a with itself m + n times, then this amounts to taking the product of a with itself m times and multiplying this with the product of a with itself n times. Example a2 a3 = (aa) (aaa) = a2+s = aaaaa = a5. Example (Ax)2 = 4x • 4x = 4 • 4xx = 16x2. Example (7x)(2x)(5x) =12- 5xxx = 70s3. We have another rule for powers, namely N12. (am)n = amn. This means that if we take the product of a with itself m times, and then take the product of am with itself n times, then we obtain the product of a with itself mn times. Example. We have (a 3) 4 = a 12. [1, §3] RULES FOR MULTIPLICATION 1 9 Example. We have (ab)n = anbn because (ab)n = abab -a ft (product of ab with itself n times) = aa • • • abb • • • b Example. We have (2a3)5 = 25(a3)5 = 32a15. Example. The population of a city is 300 thousand in 1930, and doubles every 20 years. What will be the population after 60 years? This is a case of applying powers. After 20 years, the population is 2 • 300 thousand. After 40 years, the population is 22 • 300 thousand. After 60 years, the population is 23 • 300 thousand, which is a correct answer. Of course, we can also say that the population will be 2 million 400 thousand. The following three formulas are used constantly. They are so important that they should be thoroughly memorized by reading them out loud and repeating them like a poemy to get an aural memory of them. (a + ft)2 = a2 + 2ab + ft2, (a — ft)2 = a2 — 2ab + ft2, (a + 6) (a — b) = a2 — ft2. Proofs. The proofs are carried out by applying repeatedly the rules for multiplication. We have: (a -f" b)2 = (a + 6)(a + b) = a(a —|— 6) —J— 6(a -1- b) = aa -|- ab -I- ba -I- bb = a2 + ab + ab + b2 = a2 + 2ab + ft2, 2 0 NUMBERS [1, §3] which proves the first formula. (a — b)2 = (a — b) (a — b) = a (a — b) — b(a — b) = aa — ab — ba + bb = a2 — ab — ab + b2 = a2 - 2ab + ft2, which proves the second formula. (a + b)(a — b) = a(a — 6) + 6(a — b) which proves the third formula. Example. We have (2 + 3x)2 = 22 + 2 • 2 • Sx + (3x)2 = 4 + 12x + 9x2. Example. We have (3 - 4x)2 = 32 - 2 • 3 • 4x + (4x)2 = 9 — 24* + 16x2. Example. We have (-2 a + 5b)2 = 4a2 + 2(-2a)(56) + 2562 = 4a2 - 20a6 + 2562. Example. We have (4a - 6) (4a + 6) = (4a)2 - 36 = 16a2 - 36. We have discussed so far examples of products of two factors. Of course, we can take products of more factors using associativity. Example. Expand the expression (2x + l)(x - 2)(x + 5) as a sum of powers of x multiplied by integers. = aa — ab + ba — bb = a2 — ab + ab — b2 = a2 - ft2, [1, §3] RULES FOR MULTIPLICATION 21 We first multiply the first two factors, and obtain (2* + l)(x - 2) = 2x(x - 2) + 1 (x - 2) = 2x2 - 4x + x - 2 = 2x2 - 3x - 2. We now multiply this last expression with x + 5 and obtain (2* + l)(x - 2)(x + 5) = (2x2 - 3x - 2)(x + 5) = (2x2 - 3x - 2)x + (2x2 - 3x - 2)5 = 2x3 — 3x2 — 2x + 10x2 — 15* — 10 = 2x3 + 7x2 - 17* - 10, which is the desired answer. EXERCISES 1. Express each of the following expressions in the form 2m3naTb’, where m, n, r, s are positive integers. 3. Obtain expansions for (a + b)4 and (a — b)4 similar to the expansions for (a + b)3 and (a — b)3 of the preceding exercise. Expand the following expressions as sums of powers of x multiplied by integers. These are in fact called polynomials. You might want to read, or at least look at, the section on polynomials later in the book (Chapter 13, §2). a) 8a263(27o4)(25a6) c) 32(2a6)3(16a2b5) (24i2a) e) (3a6)2(27a36)(16a65) b) 16i3a2(6ai4)(a6)3 d) 24a3(2a62)3(3a6)2 f) 32aib5a3b2 (6ai3 )4 2. Prove: (a + b)3 = a3 + 3a26 + 3o62 + b3, (a — b)3 = a3 — 3 a2b + 3oi2 — b3. 4. (2 - 4*)2 5. (1 - 2x)2 6. (2* + 5)2 7. (* - l)2 2 2 NUMBERS [1 , §4] 8. (x + 1)(* - 1) 10. (x2 + l)(x2 — 1) 12. (x2 + l)2 14. (x2 + 2)2 16. (x3 - 4)2 18. (2x2 + l)(2x2 - 1) 20. (* + 1)(2* + 5)(* - 2) 22. (3* - l)(2x + 1)(* + 4) 24. (-4 * + 1)(2 - *)(3 + x) 26. (x - l)2(3 - x) 28. (1 - 2jc) 2 (3 + 4*) 9. (2* + 1)(* + 5) 11. (1 + x3)(l - x3) 13. (x2 - l ) 2 15. (x2 - 2)2 17. (x3 - 4)(x3 + 4) 19. ( - 2 + 3 * )(-2 - 3*) 21. (2x + 1)(1 - *)(3* + 2) 23. ( - 1 - * )(-2 + *)(1 - 2x) 25. (1 - * )(1 + *)(2 - *) 27. (1 - *)2(2 - x) 29. (2x + 1)2(2 - 3*) 30. The population of a city in 1910 was 50,000, and it doubles every 10 years. What will it be (a) in 1970 (b) in 1990 (c) in 2,000? 31. The population of a city in 1905 was 100,000, and it doubles every 25 years. What will it be after (a) 50 years (b) 100 years (c) 150 years? 32. The population of a city was 200 thousand in 1915, and it triples every 50 years. What will be the population a) in the year 2215? b) in the year 2165? 33. The population of a city was 25,000 in 1870, and it triples every 40 years. What will it be a) in 1990? b) in 2030? §4. EVEN AND ODD INTEGERS; DIVISIBILITY We consider the positive integers 1, 2, 3, 4, 5,..., and we shall distinguish between two kinds of integers. We call 1, 3, 5, 7, 9, 11, 13, . . . the odd integers, and we call 2, 4, 6, 8, 10, 12, 14, . . . [1, §4] EVEN AND ODD INTEGERS; DIVISIBILITY 2 3 the even integers. Thus the odd integers go up by 2 and the even integers go up by 2. The odd integers start with 1, and the even integers start with 2. Another way of describing an even integer is to say that it is a positive integer which can be written in the form 2n for some positive integer n. For instance, we can write 2=21, 4 = 2-2, 6 = 2-3, 8 = 2-4, and so on. Similarly, an odd integer is an integer which differs from an even integer by 1, and thus can be written in the form 2m — 1 for some positive integer m. For instance, 1=21-1, 3 = 2 • 2 - 1, 5 = 2 3 - 1 , 7 = 2 * 4 — 1, 9 = 2 • 5 - 1, and so on. Note that we can also write an odd integer in the form 2n + 1 if we allow n to be a natural number, i.e., allowing n = 0. For instance, we have 1 = 2 0 + 1, 3=21 + 1, 5 = 2 • 2 + 1, 7 = 2 • 3 + 1, 9 = 2 4 + 1, and so on. Theorem 1. Let a, b be positive integers. If a is even and b is even, then a + b is even. If a is even and b is oddy then a + b is odd. If a is odd and b is even, then a + b is odd. If a is odd and b is odd, then a + b is even. Proof. We shall prove the second statement, and leave the others as exercises. Assume that a is even and that b is odd. Then we can write a = 2n and b = 2k + 1 2 4 NUMBERS [1, §4] for some positive integer n and some natural number k. Then a, b — 27i “|“ 2k “I- 1 = 2(n + k) -(-1 = 2m + 1 (letting m = n + k). This proves that a + b is odd. Theorem 2• Let a be a positive integer. If a is even, then a2 is even. If a is odd, then a2 is odd. Proof. Assume that a is even. This means that a = 2n for some positive integer n. Then a2 = 2n • 2n = 2 (2m2) = 2m, where m = 2m2 is a positive integer. Thus a2 is even. Next, assume that a is odd, and write a = 2n + 1 for some natural number n. Then a2 = (2 n + l ) 2 = ( 2 m ) 2 + 2 ( 2 m )1 + l 2 = 4m2 + 4m + 1 = 2 ( 2 m2 + 2 m ) + 1 = 2 ^ + 1 , where k = 2 m 2 + 2 m . Hence a2 is odd, thus proving our theorem. Corollary• Let a be a positive integer. If a2 is even, then a is even. If a2 is odd, then a is odd. Proof. This is really only a reformulation of the theorem, taking into account ordinary logic. If a2 is even, then a cannot be odd because the square of an odd number is odd. If a2 is odd, then a cannot be even because the square of an even number is even. We can generalize the property used to define an even integer. Let d be a positive integer and let n be an integer. We shall say that d divides n, or that m is divisible by d if we can write m = dk for some integer k. Thus an even integer is a positive integer which is divisible by 2. According to our definition, the number 9 is divisible by 3 because 9 = 3 - 3 . Also, 15 is divisible by 3 because 15 = 3 • 5. Also, —30 is divisible by 5 because -3 0 = 5( —6). Note that every integer is divisible by 1, because we can always write n = 1 • 7i. Furthermore, every positive integer is divisible by itself. [1 , §4] EVEN AND ODD INTEGERS; DIVISIBILITY 2 5 EXERCISES 1. Give the proofs for the cases of Theorem 1 which were not proved in the text. 2. Prove: If a is even and b is any positive integer, then ab is even. 3. Prove: If a is even, then a3 is even. 4. Prove: If a is odd, then a3 is odd. 5. Prove: If n is even, then ( — l)n = 1. 6. Prove: If n is odd, then ( — l) n = —1. 7. Prove: If m, n are odd, then the product mn is odd. Find the largest power of 2 which divides the following integers. 8. 16 9. 24 10. 32 11. 20 12. 50 13. 64 14. 100 15. 36 Find the largest power of 3 which divides the following integers. 16. 30 17. 27 18. 63 19. 99 20. 60 21. 50 22. 42 23. 45 2 6 NUMBERS [1, §5] 24. Let a, b be integers. Define a = b (mod 5), which we read “ a is congruent to b m odulo 5” , to mean that a — b is divisible by 5. Prove: If a = b (mod 5) and x = y (mod 5), then a + x = b + y (mod 5) and ax = by (mod 5). 25. Let d be a positive integer. Let a, b be integers. Define a = b (mod d) to mean that a — b is divisible by d. Prove that if a = b (mod d) and x = y (mod d), then a + x = b + y (mod d) and ax = by (mod d). 26. Assume that every positive integer can be written in one of the forms Sk9 Sk + 1, 3& + 2 for some integer k. Show that if the square of a positive integer is divisible by 3, then so is the integer. §5. RATIONAL NUMBERS By a rational number we shall mean simply an ordinary fraction, that is a quotient — also written m/n, n where m, n are integers and n 0. In taking such a quotient m/n, we emphasize that we cannot divide by 0, and thus we must always be sure that n t* 0. For instance, 1 2 3 5 4 3* 4 ’ 7 are rational numbers. Finite decimals also give us examples of rational numbers. For instance, 1 14 ^ 141 1 4 -10 and 141 - 100 ' Just as we did with the integers, we can represent the rational numbers on the line. For instance, J lies one-half of the way between 0 and 1, while [1, §5] RATIONAL NUMBERS 2 7 § lies two-thirds of the way between 0 and 1, as shown on the following picture. The negative rational number — f lies on the opposite side of 0 at a distance | from 0. On the next picture, we have drawn — J and —f. -2 - 3 _ a o i 1 f ? 2 Fig. 1-6 There is no unique representation of a rational number as a quotient of two integers. For instance, we have 1 2 2 — 4 We can interpret this geometrically on the line. If we cut up the segment between 0 and 1 into four equal pieces, and we take two-fourths of them, then this is the same as taking one-half of the segment. Picture: 0ii-3i Fig. 1-7 We need a general rule to determine when two expressions of quotients of integers give the same rational numbers. We assume this rule without proof. It is stated as follows. Rule for cross-multiplying. Let m, n, r, s be integers and assume that n 5* 0 and s ^ 0. Then — = - if and only if ms = m. n s The name “ cross-multiplying” comes from our visualization of the rule in the following diagram: Example. We have because 1 = 2 2 " 4 1 • 4 = 2 • 2. 2 8 NUMBERS [1 , §5] Also, we have because ? = — 7 21 3 • 21 = 9 • 7 (both sides are equal to 63). We shall make no distinction between an integer m and the rational number m/1. Thus we write m m = m/1 = — • With this convention, we see that every integer is also a rational number. For instance, 3 = 3/1 and —4 = —4/1. Observe the special case of cross-multiplying when one side is an integer. For instance: 2n 6 2n _ _ _ 30 _ — - - > — - 6, 2re-30, n - - j - 15 are all equivalent formulations of a relation involving n. Of course, cross-multiplying also works with negative numbers. For instance, - 4 8 5 -1 0 because (_4)( —10) =8-5 (both sides are equal to 40). Remark. For the moment, we are dealing with quotients of integers and describing how they behave. In the next section we shall deal with multi plicative inverses. There, you can see how the rule for cross-multiplication can in fact be proved from properties of such an inverse. Some people view this proof as the reason why cross-multiplication “works” . However, in some contexts, one wants to define the multiplicative inverse by using the rule for cross-multiplication. This is the reason for emphasizing it here independently. Cancellation rule for fractions. Let a be a non-zero integer. Letm, n be integers, n 0. Then am _ m an n [1 , §5] RATIONAL NUMBERS 2 9 Proof. To test equality, we apply the rule for cross-multiplying. We must verify that ( 0. We shall list the basic properties of positivity from which others will be proved. POS 1. I f a, b are positive, so are the product ab and the sum a + b. POS 2. If a is a real number, then either a is positive, or a = 0, or —a is positive, and these possibilities are mutually exclusive. If a number is not positive and not 0, then we say that this number is negative. By POS 2, if a is negative, then —a is positive. We know already that the number 1 is positive, but this could be proved from our two properties, and the basic rules for addition and multiplication. It may interest you to see the proof, which runs as follows and is very simple. By POS 2, we know that either 1 or — 1 is positive. If 1 is not positive, then — 1 is positive. By POS 1, it must follow that ( —1)( —1) is positive. But this product is equal to 1. Consequently, it must be 1, which is positive and not —1. Using property POS 1, we can now conclude that 1 + 1 = 2 is positive, that 2 + 1 = 3 is positive, and so forth. Thus our calling 1, 2, 3, . . . the positive integers is compatible with our two rules POS 1 and POS 2. Other basic properties of positivity are easily proved from the two basic ones, and are left as exercises (Exercises 1, 2, 3), namely: If a is positive and b is negative, then ab is negative. If a is negative and b is negative, then ab is positive. If a is positive, then 1/a is positive. If a is negative, then 1/a is negative. One of the properties of real numbers which we assume without proof is that every positive real number has a square root. This means: If a > 0, then there exists a number b such that b2 = a. Because of this, and Theorem 4, §5 of Chapter 1, we now see that a number whose square is 2 is irrational, but exists as a real number. It is a reasonable question to ask right away how many numbers there are whose squares are equal to a given positive number. For instance, what are all the real numbers x such that x2 = 2? [3, §2] REAL n u m b e r s : p o s i t i v i t y 65 This is easily answered. There are precisely two such numbers. One is positive, and the other is negative. Let us prove this. Let b2 = 2, and let x be any real number such that x2 = 2 also. We have ^ x2 — b2 = 0. However, the left-hand side factors, and we find (jc + 6)(jc — b) = 0. Hence we must have jc + 6 = 0 or x — 6 = 0 so that x = — 6 or x = 6. On the other hand, the square of — 6 is equal to 2, because ( —ft)2 = ( —6) ( —6) = 62 = 2. Thus we have proved our assertion. Of the two numbers whose square is 2, we conclude from POS 2 that precisely one of them is positive. We now adopt a convention, in force throughout all of mathematics. We agree to call the square root of 2 only the positive number 6 whose square is 2, This positive number will be denoted by V 2. Therefore the two numbers whose square is 2 are y /2 and — \ /2, and we have V2 > 0. Exactly the same arguments show that given any positive number a, there exist precisely two numbers whose square is a. If 6 is one of them, then —6 is the other. Just replace 2 by a in the preceding arguments. Again by convention, we let V a denote the unique positive number whose square is a. The other number whose square is a is therefore —y/a. We shall express this also by saying 66 REAL NUMBERS [3, §2] that the solutions of the equation x2 = a are x = db y/a. We read this as “ jc equals plus or minus square root of a” . Another way of putting this is: If y ore numbers such that x2 = y 2, then x = y or x = —y. But we cannot conclude that x = y. Furthermore, for any number x, the number y /x 2 is ^ 0. Thus V ( —3)2 = \/9 = 3. There is a special notation for this. We call y/sP the absolute value of x, and denote it by |*| = V * 5. Thus we have | —3| = 3 and also | —5| = 5. Of course, for any positive number a, we have \a\ = a. Thus |3| = 3 and |5| = 5. We won’t work too much with absolute values in this book, and we do not want to overemphasize them here. Occasionally, we need the notion, and we need to know that the absolute value of —3 is 3. In that spirit, we give an example showing how to solve an equation with an absolute value ip it, just to drive the definition home, but not to belabor the point. Example. Find all values of x such that \x + 5| = 2. To do this, we note that \x + 5| = 2 if and only if x + 5 = 2 or x + 5 = —2. Thus we have two possibilities, namely x = 2 — 5 = —3 and x = —5 — 2 = —7. This solves our problem. [3, §2] REAL n u m b e r s : p o s i t i v i t y 67 Observe that 1 _ V 2 V 2 ~ 2 ' This is because 2 = V 2 V 2 , and so our assertion is true because of cross-multiplication. It is a tradition in elementary schools to transform a quotient like 1 V 2 into another one in which the square root sign does not appear in the denominator. As far as we are concerned, doing this is not particularly useful in general. It may be useful in special cases, but neither more nor less than other manipulations with quotients, to be determined ad hoc as the need arises. Actually, in many cases it is useful to have the square root in the denominator. We shall give two examples of how to transform an expression involving square roots in the numerator or denominator. The manipulations of these examples will be based on the old rule (x + y) (x - y) = x2 - y 2. Example. Consider a quotient 2 + V 5 We wish to express it as a quotient where the denominator is a rational number. We multiply both numerator and denominator by 2 - Vs. This yields 3 (2 - V5) = 6 - 3V5 = 6 - 3V5 = _ 6 3v/g (2 + V5) (2 - V5) 22 - (V5)2 - 1 Example. This example has the same notation as an actual case which arises in more advanced courses of calculus. Let x and h be numbers such that x and x + h are positive. We wish to write the quotient y j x + h — y /x h 68 REAL NUMBERS [3, §2] in such a way that the square root signs occur only in the denominator. We multiply numerator and denominator by {y/x + h + y/x ). We obtain: (V s + h — y/x ) {y/x + h + y/x ) _ (V x + ft)2 — (V s )2 h {y/x + h + y/x ) h {y/ x + h + y/x ) _ x + h — x h {V x + h + y/x) = ________ h________ h {y/ x + h + y/x ) _ 1________ V x -f-~h -f- y /x Thus we find finally: y /x + h — y /x ________ 1_______ ^ y /x + h + y /x In the first example, the procedure we have followed is called rational izing the denominator. In the second example, the procedure is called rationalizing the numerator. In a quotient involving square roots, rationalizing the numerator means that we transform this quotient into another one, equal to the first, but such that no square root sign appears in the numerator. Similarly, rationalizing the denominator means that we transform this quotient into another one, equal to the first, but such that no square root appears in the denominator. Both procedures are useful in practice. Square roots will be used when we discuss the Pythagoras Theorem, and the distance between points in Chapter 8, §2. You could very well look up these sections right now to see these applications, especially the section on distanceN EXERCISES 1. Prove: a) If a is a real number, then a2 is positive. b) If a is positive and b is negative, then ab is negative. c) If a is negative and b is negative, then ab is positive. [3, §2] REAL n u m b e r s : p o s i t i v i t y 69 2. Prove: If a is positive, then a~l is positive. 3. Prove: If a is negative, then a~l is negative. 4. Prove: If a, b are positive numbers, then la _ V a I*" vT 5. Prove that -----= - ( 1 + V 2). 1 - V 2 6. Prove that the multiplicative inverse of 2 + y/S can be expressed in the form c + d y /3, where c, d are rational numbers. 7. Prove that the multiplicative inverse of 3 + y/E can be expressed in the form c + dy/E, where c, d are rational numbers. 8. Let a, b be rational numbers. Prove that the multiplicative inverse of a + by/ 2 can be expressed in the form c + d y /2, where c, d are rational numbers. 9. Same question as in Exercise 8, but replace y /2 by y/S. 10. Let jc, y, z, w be rational numbers. Show that a product (jc + yy/b ) (z + wy/5) can be expressed in the form c + d y/b, where c, d are rational numbers. 11. Generalize Exercise 10, replacing y/5 by y/a for any positive integer a. 12. Rationalize the numerator in the following expressions. N V 2* + 3 + 1 V l + x - 3 a) --- j--- ---------- b) ----j--- . V x — h — V i V x — h + yfx c ) --------- h--------- -----------------------d ) -----------*--------- N V x + h + V i V x + 2h — V x e ) ----------i ---------- f ) -----------i ----------- 13. Find all possible numbers x such that a) |x — 1| = 2, b) |x| = 5, c) |x - 3| = 4, d) |x + 1| = 6, e) |x + 4| = 3, f) |x - 2| = 1. 14. Find all possible numbers x such that a) |2x — 1| = 3 , b) |3x + 1| = 2, c) |2x + 1| = 4, d) |3x - 1| = 1, e) |4x - 5| = 6. 70 REAL NUMBERS [3, §3] 15. Rationalize the numerator in the following expressions. x V x + i + V * - i c) ------- — — V x + 1 — V X — 1 j. V x — 3 + V x d) , ---------p V x — 3 — V x 3 + V x + y 16. Rationalize the denominator in each one of the cases of Exercise 15. 17. Prove that there is no real number x such that [Hint: Start by squaring both sides.] 18. If y /x — 1 = 3 — y/x , prove that x = 19. Determine in each of the following cases whether there exists a real number x satisfying the indicated relation, and if there is, determine this number. a) y /x — 2 = 3 + 2\fx b) y /x — 2 = 3 — 2 y/x c) y /x + 3 = 1 + y /x d) y /x + 3 = 1 — y /x e) y /x — 4 = 3 + y /x f) y /x — 4 = 3 — y /x 20. If a, b are two numbers, prove that \a — b\ = \b — a\. §3. POWERS AND ROOTS Let n be a positive integer and let a be a real number. As before, we let y / x — 1 = 3 + y /x . be the product of a with itself n times. The rule a m +n — a ma n holds as before, if m, n are positive integers. ;3, §3] POWERS AND ROOTS 71 Let a be a positive number and let n be a positive integer. As part of the properties of real numbers, we assume, but do not prove, that there exists a unique positive real number r such that ^ ^ rn = a. This number r is called the n-th root of a, and is denoted by l/n ^ n/~ a or v a . The n-th root generalizes the existence and uniqueness of the square root discussed in the preceding section. Theorem I. Let a, b be positive real numbers. Then (ab)l,n = al/nbl/n. Proof. Let r = a1/n and s = bl/n. This means that rn = a and sn = b. Therefore (rs)n = rnsn = ab. This means that rs is the n-th root of ab, and proves our theorem. The n-th root can be further generalized to fractional powers. Let a be a positive real number. We shall assume without proof the following property of numbers. Fractional pow ers. Let a be a positive number. To each rational number x we can associate a positive number denoted by ax, which is the n-th power of a when x is a positive integer n, the n-th root of a when x = l/n, and satisfying the following conditions: POW 1. For all rational numbers x, y we have a x + y = a xa y m POW 2. For all rational numbers x, y we have (ax)v = axy. POW 3. Ifa,b are positive, then ( Example. We have ( V 2f = V 2 V 2 V 2 ^ = 2 V 2 = 23/2. Example. We have /25\3/2 _ 253/2 _ 125 \ 9 / ” 93/2 ” 27 We would also like to take powers with irrational exponents, i.e. we would like to define numbers like 2V2. This is much more difficult, but it can be done in such a way that the two conditions POW 1 and POW 2 are satisfied. We shall not need this, and therefore shall postpone a systematic development for a more advanced course, although we shall make some further comments on the situation in the chapter on functions. However, we are led to make a final comment concerning the real numbers, as distinguished from the rational numbers. Note that the properties of addition, multiplication, and positivity hold for rational numbers. What distinguishes the real numbers from the rationals is the existence of more numbers, like square roots, ra-th roots, general exponents, etc. To make this “ etc.” precise is a more complicated under taking. We can ask: Is there a neat way (besides stating that the real numbers consist of all infinite decimals) of expressing a property of the reals which guarantees that any number which we want to exist intuitively can be proved to exist using just this property? The answer is yes, but belongs to a much more advanced course. Thus throughout this course and through out elementary calculus, whenever we wish a real number to exist so that we can carry out a certain discussion, our policy is to assume its existence and to postpone the proof to more advanced courses. 74 REAL NUMBERS [3, §3] EXERCISES 1. Express each one of the following in the form 2k3marb8, where k, m, r, s are integers. a) - a3b~425a~2 b) 3_425a3b6 • \ • —A ■ • - ; 8 23 a4 9 3o364 16a~36~5 2a566 9b4a72 ~ 3 2. What integer is 811/4 equal to? 3. What integer is (\/2)6 equal to? 4. Is (V 2 )5 an integer? 5. Is (\/2)~5 a rational number? Is (V ^)5 a rational number? 6. In each case, the expression is equal to an integer. Which one? a) 161/4 b) 81/3 c) 93/2 d) 15/4 e) 84/3 f) 642/3 g) 253/2 7. Express each of the following expressions as a simple decimal, a) (.09)1/2 b) (.027)1/3 c) (.125)2/3 d) (1.21)1/2 8. Express each of the following expressions as a quotient m /n, where m, n are integers > 0. ■> (ir »(9" i 3f2 C) e r , * © ' 9. Solve each of the following equations for x. a) (x - 2)3 = 5 b) (x + 3)2 = 4 c) (x - 5) - 2 = 9 d) (x + 3)3 = 27 e) (2x - I ) " 3 = 27 f) (3x + 5)~4 = 64 [Warning: Be careful with possible minus signs when extracting roots.] [3, §4] INEQUALITIES 75 §4. INEQUALITIES We recall that we write a > 0 if a is positive. If a, b are two real numbers, we shall write a > b instead of a — b > 0. We shall write a < 0 instead of —a > 0 ^ and also b < a instead of a > b. Example. We have 3 > 2 because 3 — 2 = 1 > 0. We have - 1 > —2 because - 1 + 2 = 1 > 0. In the geometric representation of numbers on the line, the relation a > b means that a lies to the right of b. We see that —1 lies to the right of “ 2 in our example. - 2-1 o l 2 Fig. 3-2 We shall write a ^ b to mean a is greater than or equal to b. Thus 3 ^ 2 and 3 ^ 3 are both true inequalities. Using only our two properties POS 1 and POS 2, we shall prove rules for dealing with inequalities. In what follows, we let a, 6, c be real numbers. IN 1. If a > b and b > c, then a > c. IN 2. If a > b and c > 0, then ac > be. IN 3. If a > b and c < 0, then ac < be. 76 REAL NUMBERS [3, §4] Rule IN 2 expresses the fact that an inequality which is multiplied by a positive number is preserved. Rule IN 3 tells us that if we multiply both sides of an inequality by a negative number, then the inequality gets reversed. For instance, we have the inequality 1 < 3. But “ 2 is negative, and if we multiply both sides by —2 we get “ 2 > —6. This is represented geometrically by the fact that —2 lies to the right of —6 on the line. Let us now prove the rules for inequalities. To prove IN 1, suppose that a > b and b > c. By definition, this means that a - b > 0 and b - c > 0. Using property POS 1, we conclude that a — b + b — c > 0. Canceling b gives us a — c > 0, which means that a > c, as was to be shown. To prove IN 2, suppose that a > b and c > 0. By definition, a — 6 > 0. Hence using POS 1 concerning the product of positive numbers, we conclude that (a — b)c > 0. The left-hand side of this inequality is equal to ac — be by distributivity. Therefore ac — be > 0, which means that ac > 6c, thus proving IN 2. [3, §4] INEQUALITIES 77 We shall leave the proof of IN 3 as an exercise. Other properties which can easily be proved from the three basic ones will be left as exercises (see Exercises 2 through 5). They will be used constantly without further reference. In particular, we use some of them in the next examples. Example. We wish to show that the inequality 2x - 4 > 5 is equivalent to an inequality of type x > a or x < b. Indeed, it is equivalent to 2x > 5 + 4 = 9, which is equivalent to 9 * > 2 Example. Suppose that x is a number such that (1) < 2- We wish to find equivalent conditions under which this is true, expressed by simpler inequalities like x > a or x < 6. Note that the quotient on the left makes no sense if x = 4. Thus it is natural to consider the two cases separately, x > 4 and x < 4. Suppose that x > 4. Then x — 4 > 0 and hence, in this case, our inequality (1) is equivalent to Sx + 5 < 2{x — 4) = 2x — 8. This in turn is equivalent to Sx — 2x < “ 8 — 5 or, in other words, x < “ 13. However, in our case x > 4, so that x < —13 is impossible. Hence there is no number x > 4 satisfying (1). Now assume that x < 4. Then x — 4 < 0 and x — 4 is negative. We multiply both sides of our inequality (1) by x — 4 and reverse the inequality. Thus inequality (1) is equivalent in the present case to 2) 3x + 5 > 2(x — 4) = 2x — 8. 78 REAL NUMBERS [3, §4] Furthermore, this inequality is equivalent to (3) 3x - 2x > -8 - 5 or, in other words, (4) jc > -1 3 . However, in our case, x < 4. Thus in this case, we find that the numbers x such that x < 4 and x > —13 are precisely those satisfying inequality (1). This achieves what we wanted to do. Note that the preceding two inequalities holding simultaneously can be written in the form -1 3 < x < 4. The set of numbers x satisfying such inequalities is called an interval. The numbers —13 and 4 are called the endpoints of the interval. We can represent the interval as in the following figure. - 1 3 0 4 Fig. 3-3 Example. The set of numbers x such that 3 < x < 7 is an interval, shown in the next figure. Example. The set of numbers x such that 3 ^ x ^ 7 is also called an interval. In this case, we include the endpoints, 3 and 7, in the interval. The word “ interval” applies to both cases, whether or not we admit the endpoints. We represent the interval with the endpoints in the next figure. o 3 7 Fig. 3-5 In general, let a, b be numbers with a ^ 6. Any one of the following sets of numbers is called an interval. The set of numbers x such that a < x < b, called an open interval. The set of numbers x such that a ^ x ^ 6, called a closed interval. The set of numbers x such that a ^ x < b. The set of numbers x such that a < x ^ b. The last two intervals are called half open or half closed. [3, §4] INEQUALITIES 79 Example. Again by convention, it is customary to say that the set of all numbers x such that x > 7 is an infinite interval. Similarly, the set of all numbers x such that x < —3 is an infinite interval. In general, if a is a number, the set of numbers x such that x > a is an infinite interval, and so is the set of numbers x such that x < a. Again by convention, we may wish to include the endpoint. For instance, the set of numbers x such that x ^ 7 is also called an infinite interval. The set of numbers x such that x ^ — 3 is called an infinite interval. We illustrate some of these intervals in the next figure. . . . , r 0 7 Interval of numbers x > 7 1 0 7 1 Interval of numbers x ^ 7 1 1 — 3 1 0 Interval of numbers x < —3 1 - 3 1 0 Interval of numbers x ^ — 3 Fig. 3-6 EXERCISES 1. Prove IN 3. 2. Prove: If 0 ^ a ^ b, if c ^ d, and c ^ 0, then ac < bd. 3. Prove: If a < 6 < 0, if c < d < 0, then ac > bd. 80 REAL NUMBERS [3, §4] 4. a) If x < y and x > 0, prove that 1 /y < 1/x. b) Prove a rule of cross-multiplication of inequalities: If a, 6, c, d are numbers and b > 0, d > 0, and if a c b < d ’ prove that ad < be. Also prove the converse, that if ad < be, then a/b < c/d. 5. Prove: If a < b and c is any real number, then a + c < b + c. Also, a — c < b — c. Thus a number may be subtracted from each side of an inequality without changing the validity of the inequality. 6. Prove: If a < b and a > 0, then a2 < b2. More generally, prove successively that 3 . t3 a < o , a4 < b\ a5 < ft5. Proceeding stepwise, we conclude that an < bn for every positive integer n. To make this stepwise argument formal, one must state explicitly a property of integers which is called induction, and is discussed later in the book. 7. Prove: If 0 < a < 6, then a1/n < b1/n. [Hint: Use Exercise 6.] 8. Let a, 6, c, d be numbers and assume b > 0 and d > 0. Assume that :s, §4] INEQUALITIES 8 1 a) Prove that a ^ a + c c b < b + d < d' (There are two inequalities to be proved here, the one on the left and the one on the right.) b) Let r be a number > 0. Prove that a a + rc c b < b + rd ^ d c) If 0 < r < s, prove that a + rc a + sc b + rd < b + sd 9. If 3jc — 1 > 0, prove that x > J. 10. If 4x + 5 < 0 , prove that x < — f. In each of the following cases, find the intervals of numbers x satisfying the stated inequalities. 11. 5x + 2 > - 3 12. - 2 x + 1 < 4 13. 3x + 2 < 1 14. —3x — 2 > 5 15. 3x - 1 < 4x + 5 16. 2x + 7 > - x + 3 17. —3x - 1 > 5x 18. to X + h-1 A 1COX 1 to 19. 3x - 1 x - 2 < 1 20. —2x + 5 < i x + 3 21. 2 - x 2x + 1 > 2 22. 3 - x x — 5 > 23. 3 - 4x 3x - 1 > 2 24. 3x + 1 < 3 2x - 6 2-5. x2 < 1 26. x2 < 2 27. x2 < 3 28. x2 < 4 29. x2 > 1 30. x2 > 2 :i. x2 > 3 32. x2 > 4 4 Quadratic Equations We know how to solve an equation like 3x - 2 = 0. In such an equation, x appears only in the first power. We shall now consider the next most difficult case, when x appears to the second power. We first deal with examples. Example 1. Consider the equation We wish to solve for x, that is, determine all values for x which satisfy this equation. We shall ultimately derive a general formula for this. Before deriving the formula, we carry out on this special example the method used to derive the general formula. Solving our equation amounts to solving We wish to add a number to both sides of this equation so that the left-hand side becomes a square, of the form (x — s)2. We know that (x — s)2 = x2 — 2 sx + s2. Thus we need 2s = 3, or s = §. Consequently, adding (§)2 to each side of equation (2), we find (1) x2 — Sx + 1=0. (2) x2 - 3x = - 1. 83 84 QUADRATIC EQUATIONS [4; The left-hand side has been adjusted so that it is a square, namely *2 ■3*+!= (* ■ I) * and hence solving this equation amounts to solving We can now take the square root, and we find that x is a solution if and only i: Therefore finally we find two possible values for x, namely This is an abbreviation for the two values Example 2. We wish to solve the equation (3) x2 + 2x + 2 = 0. We apply the same method as before. We must solve x2 + 2x = —2. We add 1 to both sides, so that we are able to express the left-hand side in the form x2 + 2x + 1 = (x + l ) 2. Solving equation (3) is equivalent to solving (x + l )2 = “ 2 + 1 = - 1. But a negative real number cannot possibly be a square of a real number and we conclude that our equation does not have a solution in real numbers Example 3. We wish to solve the equation (4) 2x2 - Sx - 5 = 0. This amounts to solving 2x2 - Sx = 5. This time, we see that x2 is multiplied by 2. To reduce our problem to on± similar to those already considered, we divide the whole equation by 2, ani [4] QUADRATIC EQUATIONS 85 solving (4) is equivalent to solving (5) We can now complete the square on the left as we did before. We need to find a number s such that x2 — | x = x2 — 2sx. This means that s = Adding s2 to both sides of (5), we find 2 _ 3 ,_9= 5 _ 9 = 49 * 2 * 16 — 2 16 — 16 Expressing the left-hand side as a square, this is equivalent to ( - - » • - 49 16 We can now solve for x, getting or equivalently, _ 3 = 49 X 4 \16 * - |± which is our answer. Although this answer is correct, it is sometimes con venient to watch for possible simplifications. In the present case, we note that and hence ! 16 4 ’ 3 7 * - 4 ± 4 Therefore 10 ^ ~ 4 x = — and x = —7— = — 1 4 4 are the two possible solutions of our equation. We are now ready to deal with the general case. Theorem . Let a, b, c be real numbers and a 0. The solutions of the quadratic equation 6) ax2 + bx + c = 0 86 QUADRATIC EQUATIONS [4] are given by the formula provided that b2 — 4ac is positive, or 0. If b2 — 4ac is negative, then the equation has no solution in the real numbers. Proof. Solving our equation amounts to solving ax2 + bx = —c. Dividing by a, we see that this is equivalent to solving (7) 2 . b c X + - x ---------- a a To complete the square on the left, we need x2 + - x = x2 + 2 sx, a and hence s = b/2a. We therefore add s2 = b2/4a2 to both sides of (7), and find the equivalent equation (*+ è) ~ ~i +r 4 a2 _ b — Aojc 4 a2 If b2 — 4ac is negative, then the right-hand side b2 — 4 ac 4 a2 is negative, and hence cannot be the square of a real number. Thus our equation has no real solution. If b2 — 4ac is positive, or 0, then we can take the square root, and we find y /b 2 — 4 ac X + — = zh 2 a 2 a Solving for x now yields b \ /b 2 — 4 ac X 20 ± 2a [4] QUADRATIC EQUATIONS 87 which can be rewritten as — b ± V b 2 — 4ac x = --------------------------- 2 a This proves our theorem. Remark. If b2 — 4ac = 0, then we get precisely one solution for the quadratic equation, namely - b X ~ 2a ’ If b2 — 4ac > 0, then we get precisely two solutions, namely — 6 + V b 2 — 4 ac X ~ 2a and — b — y /b 2 — 4 ac x = 2 a The quadratic formula is so important that it should be memorized. Read it out loud like a poem, to get an aural memory of it: “x equals minus b plus or minus square root of b squared minus four ac over two a.” Example 4. Solve the equation 3x2 — 2x + 1 = 0. We use the formula this time, and get -(-2 ) ± V (—2)2 -4-3 x = 2 - 3 4 ± V ^ 8 In this case, we see that the expression b2 — 4ac under the square root sign is negative, and thus our equation has no solution in the real numbers. Example 5. Solve the equation 2x2 + 3x — 4 = 0. 88 QUADRATIC EQUATIONS [4] Again, use the formula, to get - 3 ± \/9 - 4-2- (-4) * = 2 ^ 2 ------------------------------------- = - 3 ± V 9 + 32 4 = - 3 ± V 4 Ï 4 This is our answer, and we get the usual two values for x, namely - 3 + V 4 Ï . - 3 - V 4 1 x = ---------------- and x = ------------------ 4 4 Remark. In the proof of our theorem concerning the solutions of the quadra tic equation, we needed to operate with addition, multiplication, and square roots. If we knew that the real numbers could be extended to a larger system of numbers in which these operations were valid, including the possibility of taking square roots of negative real numbers, then our formula would be valid in this bigger system of numbers, and would again give the solutions of the equation in all cases. We shall see in the chapter on complex numbers how to get such a system. EXERCISES Solve the following equations. If there is no solution in the real numbers say so, and give your reasons why. In each case, however, give the values for x which would solve the equation in a larger system of numbers where negative numbers have a “ square root” . Use the formula. 1. x2 + Sx - 2 = 0 2. jc2 — 3jc — 2 = 0 3. jc2 — 4jc + 5 = 0 4. jc2 — 4jc — 5 = 0 5. Sx2 + 2x — 1 = 0 6. 3x2 — 4x + 1 = 0 7. 3x2 + 3x — 4 = 0 8. - 2 x 2 - 5x = 7 9. - 2 x 2 - 5x = - 7 10. 4x2 + 5x = 6 [4] QUADRATIC EQUATIONS 89 11. X2 - V 2 X + 1 = 0 12. X 2 + V 2 £ — 1 = 0 13. x2 + 3x - V 2 = 0 14. x2 - 3x - V5 = 0 15. x2 — 3x + V5 = 0 16. x2 - 2 x - V 3 = 0 You will solve more quadratic equations when you do the exercises in Chapter 12, finding the intersection of a straight line with a circle, parabola, ellipse, or hyperbola. Interlude On Logic and Mathematical Expressions §1. ON READING BOOKS This part of the book can really be read at any time. We put it in the middle because that’s as good as any place to start reading a book. Very few books are meant to be read from beginning to end, and there are many ways of reading a book. One of them is to start in the middle, and go simultaneously backwards and forward, looking back for the definitions of any terms you don’t understand, while going ahead to see applications and motivation, which are very hard to put coherently in a systematic development. For instance, although we must do algebra first, it is quite appealing to look simultaneously at the geometry, in which we use algebraic tools to systematize our geometric intuition. In writing the book, the whole subject has to be organized in a totally ordered way, along lines and pages, which is not the way our brain works naturally. But it is unavoidable that some topics have to be placed before others, even though our brain would like to perceive them simultaneously. This simultaneity cannot be achieved in writing, which thus gives a distortion of the subject. It is clear, however, that I cannot substitute for you in perceiving various sections of this book together. You must do that yourself. The book can only help you, and must be organized so that any theorem or definition which you need can be easily found. Another way of reading this book is to start at the beginning, and then skip what you find obvious or skip what you find boring, while going ahead to further sections which appeal to you more. If you meet some term you don’t understand, or if you need some previous theorem to push through the logical development of that section, you can look back to the proper reference, which now becomes more appealing to you because you need it for something which you already find appealing. 93 94 LOGIC AND MATHEMATICAL EXPRESSIONS [Int., §2] Finally, you may want to skim through the book rapidly from beginning to end, looking just at the statements of theorems, or at the discussions between theorems, to get an overall impression of the whole subject. Then you can go back to cover the material more systematically. Any of these ways is quite valid, and which one you follow depends on your taste. When you take a course, the material will usually be covered in the same order as the book, because that is the safest way to keep going logically. Don’t let that prevent you from experimenting with other ways. §2. LOGIC We always try to keep clearly in mind what we assume and what we prove. By a “ proof” we mean a sequence of statements each of which is either assumed, or follows from the preceding statements by a rule of deduction, which is itself assumed. These rules of deduction are essentially rules of common sense. We use “If. . . , then” sentences when one statement implies another. For instance, we use sentences like: This is a true statement, patterned after the general sentence structure: (1) If 2x = 5, then x = - • 2 If A, then B. The converse of this statements is given by: If B 9 then A. Thus the converse of our assertion (1) is: (2) If x = - , then 2x = 5. 2 We see that the converse is also true. [Int., §2] LOGIC 95 Whenever we meet such a situation, we can save ourselves space, and simply say: 5 (3) 2x = 5 if and only if x = - • 2 Thus “ A only if B ” means “ If A, then B ” . However, using “ only if” by itself rather than in the context of “ if and only if” always sounds a little awkward. Because of the structure of the English language, one has a tendency to interpret 66 A only if B” to mean “ if B , then A ” . Consequently, we shall never use the phrase “ only if” by itself, only as part of the full phrase “ A if and only if B” . Example. The assertion: “ If x = — 3, then x2 = 9” is a true statement. Its converse: “ If x2 = 9, then x = - 3 ” is a false statement, because x may be equal to 3. Thus the statement: “ x2 = 9 if and only if x = - 3 ” is a false statement. Example. The statement: “ If two lines are perpendicular, then they have a point in common” is a true statement. Its converse: “ If two lines have a point in common, then they are perpendicular” is a false statement. Example. The statement: “ Two circles are congruent if and only if they have the same radius” is a true statement. We often give proofs by what is called the “ method of contradiction” . We want to prove that a certain statement A is true. To do this, we suppose that A is false, and then by logical reasoning starting from the supposition that A is false, we arrive at an absurdity, or at a contradiction of a true statement. We then conclude that our supposition “ A is false” cannot hold, whence A must be true. An example of this occurred when we proved that 96 LOGIC AND MATHEMATICAL EXPRESSIONS [Int., §2] \ /2 is not a rational number. We did this by assuming that y /2 is rational, then expressing it as a fraction in lowest form, and then showing that in fact, both numerator and denominator of this fraction must be even. This contra dicted the hypothesis that y /2 could be a fraction, in lowest form, whence we concluded that y /2 is not a rational number. Some assertions are true, some are false, and some are meaningless. Sometimes a set of symbols is meaningless because some letters, like x, or a. appear without being properly qualified. We give examples of this. When we write an equation like 2x = 5, as in (1), the context is supposed to make it clear that x denotes a number. However, if there is any chance of doubt. this should always be specified. Thus a more adequate formulation of (1 > would be: 5 (4) If x is a real number and 2x = 5, then x = - • 2 Similarly, a more adequate formulation of (2) would be: 5 (5) Let x be a real number. Then 2x = 5 if and only if x = - • The symbols 2x = 5 by themselves are called an equation. As it stands, this equation simply indicates a possible relationship, but to give it meaning we must say some thing more about x. For instance: a) There exists a number x such that 2x = 5. b) For all numbers x, we have 2x = 5. c) There is no number x such that 2x = 5. d) If x is a real number and 2x = 5, then x < 7. Of these statements, (a) is true, (b) is false, (c) is false, and (d) is true. We can also use the symbols “ 2x = 5” in a context like: e) Determine all numbers x such that 2x = 5. This sentence is actually a little ambiguous, because of the word “ determine’\ In a sense, the equation itself, 2x = 5, determines such numbers x. We have tried to avoid such ambiguities in this book. However, the context of a chapter can make the meaning of this sentence clear to us as follows: f) Express all rational numbers x such that 2x = 5 in the form m/ n. where m, n are integers, n 0. [Int., §2] LOGIC 97 This is what we would understand when faced with sentence (e), or with a similar sentence like: g) Solve for x in the equation 2x = 5. In writing mathematics, it is essential that complete sentences be used. Many mistakes occur because you allow incomplete symbols like 2x = 5 to occur, without the proper qualifications, as in sentences (a), (b), (c), (d), (e), (f), (g). Example. The symbols “x2 = 2” by themselves are merely an equation. The sentence: “ There exists a rational number x such that x2 = 2.” is false. The sentence: “ There exists a real number x such that x2 = 2.” is true. Equality We shall use the word “ equality” between objects to mean that they are the same object. Thus when we write 2 + 3 = 6 — 1, we mean that the number obtained by adding 2 and 3 is the same number as that obtained by subtracting 1 from 6. It is the number 5. We use the word “ equivalent” in several contexts. First, if A and B are assertions (which may be true or false), we say that they are equivalent to mean: A is true if and only if B is true. For instance, the following two assertions are equivalent in this sense: The number x satisfies the equation 2x + 5 = 3 . The number x is equal to — 1. We shall use the word “ equivalent” in other contexts, but will explain these as the need arises. 98 LOGIC AND MATHEMATICAL EXPRESSIONS [Int., §2] We DO NOT USE THE WORD “ EQUALITY” AS IT IS SOME TIMES USED, for instance in elementary geometry. The following two triangles are not equal: They are, however, congruent, and under a suitable definition of equivalence for triangles, we might even say that they are equivalent. Note that the areas of these triangles are equal. In the same vein, the following line segments are not equal: However, their lengths are equal. The mathematics which we discuss in this book, like most mathematics, has many applications and counterparts in the physical world. For instance, numbers can be used to measure length, area, speed, density, etc. For clarity, we try to use language in such a way that the mathematical notions are not usually identified with their physical counterparts. Thus we use words like “ correspond” , or “represent” 9 when we wish to associate a physical quantity with a mathematical one. In line with this, we can deal with mathematical objects on two levels: the purely logical level of axioms, deductions, and proofs; and the mixed physical level. Often, it is quite tedious and not necessarily illuminating to insist that we follow only the strictly logical procedures. It is useful and perhaps more pleasant to follow our physical intuition for certain arguments. We shall see examples of both types of arguments when we discuss geometry in its intuitive setting and its analytical setting. Fig. 1-1 Fig. 1-2 [Int., §3] SETS AND ELEMENTS 99 §3. SETS AND ELEMENTS Following mathematical terminology, a collection of objects is called a set. The objects in this set are called the elements of the set. The set of all real numbers is denoted by R. To say: “ jc is an element of R ” means the same thing as to say “x is a real number” . Let S and T be sets. We say that S is a subset of T if every element of S is also an element of T. For instance: The set of rational numbers is a subset of the set of real numbers. The set of integers is a subset of the set of rational numbers. The set of integers is a subset of the set of rational numbers. It is also a subset of R (i.e. a subset of the real numbers). The set of boys is a subset of the set of all children. The set of all real numbers x such that 2x + 3 < 5 is a subset of the real numbers. As a matter of convention, we allow a subset of a set S to be all of S. Thus any set is a subset of itself. The sentence: “ For any set S, S is a subset of S” is a true sentence. A set is often described by stating the conditions under which something is an element of the set. Sometimes we state such conditions so that there are no elements in the set. Example. There is no element in the set of all numbers x which satisfy the conditions x < 0 and x > 0. There is no element in the set of all positive numbers x which satifsy the conditions 2* 1 i T ~ l “ d * < 2 ' 1 0 0 LOGIC AND MATHEMATICAL EXPRESSIONS [Int., §4] Whenever this happens, that a set has no elements, we say that the set is em pty. Thus the set of numbers x such that 2x > 1 and x < —3 is empty. Let S, S' be sets. Often, to prove that S = S', we prove that S is a subset of S' and that S' is a subset of S. Example. Let S be the set of numbers x such that 1 ^ x ^ 2. Let T be the set of all numbers 5x with all x in S. We contend that T is the set of numbers y with 5 ^ y ^ 10. First note that if x is in S, then 5x satisfies the inequalities 5 ^ 5x ^ 10. Hence if T' is the set of all numbers y satisfying 5 ^ y ^ 10, we see that T is contained in T'. Conversely, let y be a point of T', i.e. assume that 5 ^ y ^ 10. Let x = y / 5. Then x is in S and y = 5x. Hence T' is contained in T. This proves that T = T'. §4. INDICES In a sentence like “ Let x, y be numbers” it is a convention of mathematical language to allow the possibility that x = y. Similarly, if we say “ Let P, Q be points in the plane” we do not exclude the possibility that P = Q. If we wish to exclude this possibility then we say so explicitly. For instance, we would say: “ Let x, y be distinct numbers” or “ Let x, y be numbers, x ^ y ” or “ Let P, Q be points, such that P Q” . Similarly, we may wish to speak of several numbers instead of two numbers like x, y. Thus we might say “ Let x, y, z be numbers” , [Int., §4] NOTATION 101 without excluding the possibility that some of these numbers may be equal to each other. It is clear that we would soon run out of letters of the alphabet in enumerating numbers just with letters, and hence we use a notation with subscripts, as exemplified in the following sentences. “ Let xi, X2 be numbers.” “ Let xi, X2, X3 be numbers.” “ Let xi, X2, X3, X4 be numbers.” Finally, in the most general case we have the corresponding sentence: “ Let xi, . . . , xn be numbers.” We repeat that in such a sentence, it is possible that xt = Xj for some pair of subscripts i, j such that i j. Such subscripts are also called indices. Objects indexed by integers from 1 to n (or sometimes from 0 to li) are called a sequence of objects or, more precisely, a finite sequence. Thus in a finite sequence of numbers, denoted by {*1, . . ., xn} we associate a number Xj to each integer j satisfying 1 ^ j ^ n. Thus, con sidering a sequence as above amounts to considering a first number xi, a second number X2, and so forth, up to an rc-th number x n. Example. For each integer j we let xy = ( — I)*'. Then X i = —1, x2 = 1, x3 = -1 , X4 = 1, xn = ( - l ) n. Observe how in this sequence the numbers xy take on the values 1 or —1. Example. We shall study polynomials later, and we shall write a polynomial in the form anxn + an_ixn 1 + • • • + ao The sequence of coefficients is the sequence ill, . . . , • For instance, the sequence of coefficients of the polynomial 4x3 — 2x2 + 4x — 5 is the sequence { —5, 4, —2, 4}. We have ao = —5, a\ — 4, «2 = — 2, . In other words, a ray is determined by its starting point and by any other point on it. If a ray starts at a point P, we also call P the vertex of the ray. [5, §2] ANGLES 111 Consider two rays R p q and R p m starting from the same point P. These rays separate the plane into two regions, as shown in Fig. 5-6. Each one of these regions will be called an angle determined by the rays. Thus the rays Rpq and Rpm determine two angles. Remark on terminology. There is some divergence in the way an angle is defined in other books. For instance, an angle is sometimes defined as the union of two rays having a common vertex, rather than the way we have defined it. I have chosen a different convention for several reasons. First, people do tend to think of one or the other side of the rays when they meet two rays like this: They do not think neutrally. Second, and more importantly, when we want to measure angles later, and assign a number to an angle, as when we shall say that an angle has 30 degrees, or 270 degrees, adopting the definition of an angle as the union of two rays would provide insufficient information for such purposes, and we would need to give additional information to determine the associated measure. Thus it is just as well to incorporate this information Fig. 5-7 112 DISTANCE AND ANGLES [5, §2] in our definition of an angle. Finally, the manner in which the measure of an angle will be found will rely on area, and is therefore natural, starting with our definition. If we just draw these rays as shown in Fig. 5-8, like this, without any other indication, then we cannot tell which angle is meant, and thus we need some additional notation to distinguish one angle from the other, which we now describe. Fig. 5-8 Recall that given a point P and a positive number r, the circle of radius r and center P is the collection of all points whose distance from P is equal to r. Let R pq and Rpm be rays with vertex P. If C is a circle centered at P (of positive radius), then our two rays separate the circle into two arcs, as shown in Fig. 5-9. Each arc lies within one of the rjigles, and thus to characterize each angle it suffices to draw the corresponding arc. The two parts of Fig. 5-10 thus show the usual way in which we draw the two angles formed by the rays. [5, §2] ANGLES 113 Fig. 5-10 Just knowing the two rays is not enough information to be able to distinguish one angle from the other. However, if the rays are given in an ordered fashion, selecting one of them as the first and the other as the second, then we do have enough information to determine one specific angle. This is done as follows. Let R p q be the first ray and R p m the second one. Then one of the angles determined by R p q and R p M contains the arc going from the first ray to the second in the counterclockwise direction. We denote that angle by ZQPM. The other angle contains the arc from R p m to R p q in the counterclockwise direction, and we therefore denote this other angle by ZMPQ. Thus the order in which Q, M occur is very important in this notation. We represent the angles ZQPM and ZMPQ by putting a little arrow on the arc, to indicate the counterclockwise direction, as in Fig. 5-11. Angle Z QPM Angle z MPQ Fig. 5-11 114 DISTANCE AND ANGLES [5, §2] Example. If Q, P, M lie on the same straight line, and Q, M lie on the same ray starting at P, then the angle /.QPM looks like this: In this case, the arc of a circle between the two rays is just a point, and we say that the angle ZQPM is the zero angle. Note that when we deal with this degenerate case in which the two rays coincide, one of the angles is the zero angle but the other angle is the whole plane, and is called the full angle. However, with our conventions, we do not write this full angle with the notation ZQPM. We do, however, represent it by an arrow going all the way around as follows: Example. Suppose that Q, P, M lie on the same straight line but that Q and M do not lie on the same ray, that is, Q and M lie on opposite sides of P on the line. Our angle /.QPM looks like this: [5, §2] ANGLES 115 In this case, we say that the angle /.QPM is a straight angle. Observe that we draw the angle ZMPQ with a different arc, namely: Thus in this case, ZMPQ is different from ZQPM, and both are straight angles because the three points P, Q, M lie on the same straight line. Given an angle A with vertex P, let D be a disc centered at P. That part of the angle which also lies in the disc is called the sector of the disc determined by the angle. Picture: Fig. 5-16 The shaded part represents the sector S. Just as we used numbers to measure distance, we can now use them to measure angles, provided that we select a unit of measurement first. This can be done in several ways. Here we discuss the most elementary way (but we shall return later to this question, and discuss another unit, which turns out to be more convenient in most mathematics). The unit of measurement which we select here is the degree, such that the full angle has 360 degrees. Let A be an angle centered at P and let S be the sector determined by A in the disc D centered at P. Let x be a number between 0 and 360. We shall say that A has x degrees 116 DISTANCE AND ANGLES [5, §2; to mean that area of S _ x area of D 360 Thus area of S x = 360 area of D In computing the number of degrees in an angle, we do not have to determine the area of S or even that of D, only the ratio between the two. We shall now give examples. Example. The straight angle has 180 degrees because it separates the disc into two sectors of equal area, as shown in Fig. 5-17. Example. An angle whose measure is half that of the straight angle is called a right angle, and has 90 degrees, as in the Fig. 5-18. Example. In Fig. 5-19, we have drawn the sectors determined by angles cc 45 degrees and 30 degrees. The one with 30 degrees has one-third the measure of a right angle. In the picture of an angle of 45 degrees, we have drawn 1 dotted line to suggest the angle of 90 degrees. In the picture of an angle c: 30 degrees, we have drawn two dotted lines to suggest the angles of 90 degrees [5, §2] ANGLES 117 / / / / (a) Fig. 5-19 and 60 degrees, respectively, showing how the angle of 90 degrees gets divided into three parts having equal measures. Example. In Fig. 5-19 (c) we have drawn the sector lying between the angles of 30° and 45°, and inside the circle of radius 2. We can compute the area of this sector using the definition of degrees. Let us assume the fact that the area of the disc of radius r is 7rr2, where 7r is approx imately equal to 3.14159 .... (The decimal for 7r can be determined as accurately as you wish, but we don’t go into this here.) The area of the disc of radius 2 is therefore equal to 4tt. The sector S in Fig. 5-19 (c) has 15° (because 15 = 45 — 30), and hence This is the numerical value of the area, in whatever units we are dealing with. You can put this answer into decimal form, using tables for 7r, and a com puter, but we prefer to leave it as 7t/6. Similarly, the area of the sector lying between the angles of 30° and 45°, and inside the circle of radius 5,
